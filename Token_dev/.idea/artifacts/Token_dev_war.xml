@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Token_dev:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Token_dev.war">
+      <element id="artifact" artifact-name="Token_dev:war exploded" />
+    </root>
+  </artifact>
+</component>
